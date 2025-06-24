@@ -1,0 +1,75 @@
+body {background-color: bisque;
+}
+
+header {background-color: black;
+padding: 10px;
+text-align: center;
+font-size: xx-large;
+
+}
+
+h1 {text-align: center;
+
+}
+
+nav {list-style: none;
+
+}
+
+ul {margin: 0;  
+    padding: 0;
+
+}
+
+li {display: inline-block;
+
+}
+
+a {text-decoration: none;
+    color: red;
+    padding: 30px;
+    text-decoration: none;
+}
+
+a:hover {color: white;
+        text-decoration: underline;
+
+}
+
+#seçao1 {min-height: 400px;
+         color: blue;
+         margin: 30px;
+         padding: 30px;
+         border: solid 40px;
+         background-color: black;
+         text-align: center;
+
+
+}
+
+#seçao2 {min-height: 400px;
+         color: purple;
+         margin: 30px;
+         padding: 30px;
+         border: solid 40px;
+         background-color: black;
+         text-align: center;
+
+}
+
+#seçao3 {min-height: 400px;
+         color: red;
+         margin: 30px;
+         padding: 30px;
+         border: solid 40px; 
+         background-color: black;
+         text-align: center;
+         
+}
+
+footer {
+  padding: 20px; 
+  background-color: #333; 
+  color: white; 
+  text-align: center; 
+}
